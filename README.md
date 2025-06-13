@@ -2,11 +2,11 @@
 
 ### Data Science and Gen AI by SATISH @ Sathya Technologies, Ameerpet, Hyd. Ph. No: +91-91009 20092, +91-76718 52096.
 
-Register: [https://shorturl.at/Q1qvE](https://sathyatech.com/upcoming-batches/)
+## Register: [https://shorturl.at/Q1qvE](https://sathyatech.com/upcoming-batches/)
 
-DS Python Course Content: https://shorturl.at/wj8Eh
+## DS Python Course Content: https://shorturl.at/wj8Eh
 
-For more details: please contact Sathya Tech. Ph.+91 76718 52096, +91 91009 20092 www.sathyatech.com
+### For more details: please contact Sathya Tech. Ph.+91 76718 52096, +91 91009 20092 www.sathyatech.com
 
 ## Data Science Course Content:
 https://drive.google.com/file/d/1c1Iusxnr68lMl-26viW8ZjOMMtg68Aob/view?usp=sharing
